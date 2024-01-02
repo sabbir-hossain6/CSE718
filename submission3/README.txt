@@ -2,13 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/htcgzwhtyzzk#2b4139
 
 Unlisted YouTube video:
-https://youtu.be/UKf9tVZ1osc
+https://www.youtube.com/watch?v=1UYdgXYGfuw
 
 Paper title:
 Employing Computational Simulation to Elucidate and Therapeutically Address Mental Health Pathologies: A Multifaceted Methodological Approach for Enhanced Understanding and Intervention
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1nC4i-lfUADWdcRNbfWOSSM4vLA-bSLpyC_KY8XDldsA/edit?usp=sharing
+https://docs.google.com/presentation/d/1botnHPoLziTMFxklUReFL_zVLDBaixkRqwRhySYIEj8/edit?usp=sharing
 
 Group Number:
 17
